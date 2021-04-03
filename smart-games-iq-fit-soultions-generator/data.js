@@ -196,29 +196,9 @@ const parts5 = [
     ])
 ]
 
-module.exports = {
-    ds: {
-        area,
-        parts
-    },
-    ds1: {
-        area: area1,
-        parts: parts1
-    },
-    ds2: {
-        area: area2,
-        parts: parts2
-    },
-    ds3: {
-        area: area3,
-        parts: parts3
-    },
-    ds4: {
-        area: area4,
-        parts: parts4
-    },
-    ds5: {
-        area: area5,
-        parts: parts5
-    }
+const data = {
+    area: area2,
+    parts: parts2
 }
+
+module.exports = data;
