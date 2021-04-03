@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.32a45c5f.chunk.css",
-    "main.js": "/static/js/main.63b7287c.chunk.js",
-    "main.js.map": "/static/js/main.63b7287c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b607a9df.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b607a9df.js.map",
-    "static/js/2.962fdd75.chunk.js": "/static/js/2.962fdd75.chunk.js",
-    "static/js/2.962fdd75.chunk.js.map": "/static/js/2.962fdd75.chunk.js.map",
-    "static/js/3.b31cc2f5.chunk.js": "/static/js/3.b31cc2f5.chunk.js",
-    "static/js/3.b31cc2f5.chunk.js.map": "/static/js/3.b31cc2f5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.32a45c5f.chunk.css.map": "/static/css/main.32a45c5f.chunk.css.map",
-    "static/js/2.962fdd75.chunk.js.LICENSE.txt": "/static/js/2.962fdd75.chunk.js.LICENSE.txt"
+    "main.css": "/SmartGamesIqFitSolutions/static/css/main.32a45c5f.chunk.css",
+    "main.js": "/SmartGamesIqFitSolutions/static/js/main.63b7287c.chunk.js",
+    "main.js.map": "/SmartGamesIqFitSolutions/static/js/main.63b7287c.chunk.js.map",
+    "runtime-main.js": "/SmartGamesIqFitSolutions/static/js/runtime-main.5aa816f3.js",
+    "runtime-main.js.map": "/SmartGamesIqFitSolutions/static/js/runtime-main.5aa816f3.js.map",
+    "static/js/2.962fdd75.chunk.js": "/SmartGamesIqFitSolutions/static/js/2.962fdd75.chunk.js",
+    "static/js/2.962fdd75.chunk.js.map": "/SmartGamesIqFitSolutions/static/js/2.962fdd75.chunk.js.map",
+    "static/js/3.b31cc2f5.chunk.js": "/SmartGamesIqFitSolutions/static/js/3.b31cc2f5.chunk.js",
+    "static/js/3.b31cc2f5.chunk.js.map": "/SmartGamesIqFitSolutions/static/js/3.b31cc2f5.chunk.js.map",
+    "index.html": "/SmartGamesIqFitSolutions/index.html",
+    "static/css/main.32a45c5f.chunk.css.map": "/SmartGamesIqFitSolutions/static/css/main.32a45c5f.chunk.css.map",
+    "static/js/2.962fdd75.chunk.js.LICENSE.txt": "/SmartGamesIqFitSolutions/static/js/2.962fdd75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b607a9df.js",
+    "static/js/runtime-main.5aa816f3.js",
     "static/js/2.962fdd75.chunk.js",
     "static/css/main.32a45c5f.chunk.css",
     "static/js/main.63b7287c.chunk.js"
